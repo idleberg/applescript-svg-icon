@@ -6,7 +6,7 @@ Alternative icon for AppleScript, following the original shape and making use of
 
 ## Preview
 
-![Screenshot](https://raw.githubusercontent.com/idleberg/applescript-svg-icon/master/images/applescript.png)
+![Screenshot](https://raw.githubusercontent.com/idleberg/applescript-svg-icon/master/dist/applescript.png)
 
 ## License
 
