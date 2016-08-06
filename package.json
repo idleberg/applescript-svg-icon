@@ -1,0 +1,14 @@
+{
+  "name": "applescript-svg-icon",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "idleberg",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-svgmin": "^1.1.2"
+  }
+}
