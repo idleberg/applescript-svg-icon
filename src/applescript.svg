@@ -3,7 +3,6 @@
 <!-- 2016 (c) Jan T. Sott | Licensed under the CC-BY-SA 4.0 license | https://github.com/idleberg/applescript-svg-icon -->
 <svg version="1.1" id="applescript" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" width="1024px" height="1024px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
-<rect x="0" fill="#FFFFFF" width="1024" height="1024"/>
 <path id="blue" fill="#009DDC" d="M868.024,615.561l-5.523-9.57l-8.562-14.828L409.172,847.949l8.562,14.83
 	c28.36,49.129,11.53,111.943-37.6,140.312l88.953-51.357l88.954-51.357l267.382-154.373
 	C871.312,719.506,889.014,662.943,868.024,615.561L868.024,615.561z"/>
